@@ -1,2 +1,2 @@
-# ppsn2022
-Source code, data and other materials to accompany the PPSN2022 paper
+# EvoStar2023
+Source code, data and other materials to accompany the paper submitted to EvoStar2023
